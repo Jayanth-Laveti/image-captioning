@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 2E35-F7D8
-
- Directory of C:\Users\Jayanth\Desktop\gitproject
-
-24-04-2020  14:42    <DIR>          .
-24-04-2020  14:42    <DIR>          ..
-24-04-2020  14:42                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  1,744,243,433,472 bytes free
+laskdasd
